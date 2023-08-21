@@ -19,3 +19,53 @@
 
 [Open \(For Business\): Big Tech, Concentrated Power, and the Political Economy of Open AI
 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807)  
+
+[prompthub](https://prompthub.deepset.ai/)
+
+https://news.ycombinator.com/item?id=36601236
+
+[problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
+
+[Add an AI Code Copilot to your product using GPT-4](https://www.windmill.dev/blog/windmill-ai)
+
+[sommelier ai](https://github.com/OrderAndCh4oS/sommelier-ai-next)
+
+[coreweave uses nvidia gpus as collateral](https://www.theverge.com/2023/8/8/23824661/coreweave-nvidia-debt-gpu-ai-chips-collateral)
+
+[Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)
+
+[JSON linter allowing api styleguides for openapi](https://github.com/stoplightio/spectral)
+
+[doctor gpt](https://github.com/llSourcell/DoctorGPT)
+
+[playwright dev testing](https://playwright.dev/)
+
+[Show HN: LLMs can generate valid JSON 100% of the time](https://news.ycombinator.com/item?id=37125118)
+
+[llama gpt](https://github.com/getumbrel/llama-gpt)
+
+[Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)
+
+[poozle, plaid for llms](https://github.com/poozlehq/poozle)
+
+[why you dont need to fine tune llms, RAG](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
+
+[commoncrawl](https://commoncrawl.org/)
+
+[chatgpt for d&d](https://www.theregister.com/2023/08/19/chatgpt_dnd_dm/)
+
+[ThirdAI’s Private and Personalizable Neural Database: Enhancing Retrieval-Augmented Generation (Part 3/3)](https://medium.com/thirdai-blog/thirdais-private-and-personalizable-neural-database-enhancing-retrieval-augmented-generation-f3ad52c54952)
+
+[ThirdAI’s Private and Personalizable Neural Database: Enhancing Retrieval-Augmented Generation (Part 2/3](https://medium.com/thirdai-blog/neural-database-next-generation-context-retrieval-system-for-building-specialized-ai-agents-with-861ffa0516e7)
+
+[ThirdAI’s Private and Personalizable Neural Database: Enhancing Retrieval-Augmented Generation (Part 1/3](https://medium.com/thirdai-blog/understanding-the-fundamental-limitations-of-vector-based-retrieval-for-building-llm-powered-48bb7b5a57b3)
+
+[ORCA](https://www.microsoft.com/en-us/research/publication/orca-progressive-learning-from-complex-explanation-traces-of-gpt-4/)
+
+[openorca](https://erichartford.com/openorca)
+
+[falcon 40b](https://huggingface.co/tiiuae/falcon-40b)
+
+[chatgpt plugins](https://platform.openai.com/docs/plugins/introduction)
+
+[first order model animation](https://github.com/AliaksandrSiarohin/first-order-model)
