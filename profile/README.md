@@ -43,7 +43,7 @@
 [liteLLM Proxy Server: 50+ LLM Models, Error Handling, Caching
 ](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)  
 
-[hacker news: https://news.ycombinator.com/item?id=36601236](https://news.ycombinator.com/item?id=36601236)  
+[hacker news: Artificial General Intelligence remains a distant dream despite LLM boom](https://news.ycombinator.com/item?id=36601236)  
 
 [problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 
@@ -72,3 +72,5 @@
 [openorca](https://erichartford.com/openorca)
 
 [chatgpt plugins](https://platform.openai.com/docs/plugins/introduction)  
+
+[The Imminent Death of ChatGPT (and generative AI) is Greatly Exaggerated - Look at the Data](https://synthedia.substack.com/p/the-imminent-death-of-chatgpt-and)  
