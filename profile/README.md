@@ -1,4 +1,4 @@
-## realizing mythology, mythologizing reality
+**realizing mythology, mythologizing reality**
 [myth software](https://myth.software) | [702.ai](https://702.ai) | [syr.ai](https://syr.ai)
 
 <!--
@@ -21,8 +21,6 @@
 [JSON linter allowing api styleguides for openapi](https://github.com/stoplightio/spectral)  
 
 [doctor gpt](https://github.com/llSourcell/DoctorGPT)  
-
-[playwright dev testing](https://playwright.dev/)  
 
 [llama gpt](https://github.com/getumbrel/llama-gpt)  
 
@@ -47,17 +45,11 @@
 
 [hacker news: Artificial General Intelligence remains a distant dream despite LLM boom](https://news.ycombinator.com/item?id=36601236)  
 
-[problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
-
 [Add an AI Code Copilot to your product using GPT-4](https://www.windmill.dev/blog/windmill-ai)  
 
 [coreweave uses nvidia gpus as collateral](https://www.theverge.com/2023/8/8/23824661/coreweave-nvidia-debt-gpu-ai-chips-collateral)  
 
-[hacker news: Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)  
-
 [Show HN: LLMs can generate valid JSON 100% of the time](https://news.ycombinator.com/item?id=37125118)  
-
-[Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)  
 
 [Why You (Probably) Don’t Need to Fine-tune an LLM (few shot prompting, RAG)](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)  
 
@@ -76,3 +68,15 @@
 [chatgpt plugins](https://platform.openai.com/docs/plugins/introduction)  
 
 [The Imminent Death of ChatGPT (and generative AI) is Greatly Exaggerated - Look at the Data](https://synthedia.substack.com/p/the-imminent-death-of-chatgpt-and)  
+
+
+## apps
+### projects
+[playwright dev testing](https://playwright.dev/)  
+
+### writing
+[Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)  
+[hacker news: Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)  
+[problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)  
+### bullshit
+[propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
