@@ -34,6 +34,8 @@
 
 [first order model animation](https://github.com/AliaksandrSiarohin/first-order-model)  
 
+[CoTracker for flexin, pferd](https://github.com/facebookresearch/co-tracker)
+
 #### writing
 [web scraing for me but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 
