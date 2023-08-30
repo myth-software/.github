@@ -1,5 +1,5 @@
-**realizing mythology, mythologizing reality**
-[myth software](https://myth.software) | [702.ai](https://702.ai) | [syr.ai](https://syr.ai)
+**realizing mythology, mythologizing reality**  
+[syr.ai](https://syr.ai)
 
 <!--
 
