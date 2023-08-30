@@ -78,5 +78,6 @@
 [Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)  
 [hacker news: Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)  
 [problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)  
+[The ‘Enshittification’ of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 ### bullshit
 [propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
