@@ -1,5 +1,5 @@
 **realizing mythology, mythologizing reality**  
-[syr.ai](https://syr.ai)
+[syr.ai](https://syr.ai) is building a.i. that works with your business data security, safely, and simply
 
 <!--
 
@@ -70,14 +70,19 @@
 [The Imminent Death of ChatGPT (and generative AI) is Greatly Exaggerated - Look at the Data](https://synthedia.substack.com/p/the-imminent-death-of-chatgpt-and)  
 
 
-## apps
-### projects
+### apps
+#### projects
 [playwright dev testing](https://playwright.dev/)  
 
-### writing
+#### writing
 [Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)  
 [hacker news: Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)  
 [problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)  
 [The ‘Enshittification’ of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
-### bullshit
+#### bullshit
 [propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
+
+
+### civics
+#### writing
+[the blog of Cory Doctorow](https://pluralistic.net/)  
