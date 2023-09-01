@@ -35,6 +35,8 @@
 [CoTracker for flexin, pferd](https://github.com/facebookresearch/co-tracker)
 
 #### writing
+[using elastic search, vectors arent enough, daily worldwide generation of data is hundreds of millions of terabytes](https://youtu.be/5Qaxz2e2dVg?feature=shared)  
+
 [web scraing for me but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 
 [Open \(For Business\): Big Tech, Concentrated Power, and the Political Economy of Open AI
