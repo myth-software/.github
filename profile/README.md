@@ -24,6 +24,9 @@
 
 [magicedit](https://magic-edit.github.io/)  
 
+#### videos
+[Is Langchain BAD for AI App Devs?](https://www.youtube.com/watch?v=4E2SsRI7eVo)
+
 
 #### writing
 [using elastic search, vectors arent enough, daily worldwide generation of data is hundreds of millions of terabytes](https://youtu.be/5Qaxz2e2dVg?feature=shared)  
