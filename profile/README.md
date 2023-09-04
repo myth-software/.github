@@ -65,7 +65,11 @@
 
 [The Imminent Death of ChatGPT (and generative AI) is Greatly Exaggerated - Look at the Data](https://synthedia.substack.com/p/the-imminent-death-of-chatgpt-and)  
 
-[Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
+[Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)  
+
+[How do I use Stop Sequences?](https://help.openai.com/en/articles/5072263-how-do-i-use-stop-sequences)  
+
+[gpt best practices](https://platform.openai.com/docs/guides/gpt-best-practices)  
 
 ### apps
 #### projects
