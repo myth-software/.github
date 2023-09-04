@@ -14,25 +14,16 @@
 
 ### awesome a.i.
 #### projects
-[prompthub](https://prompthub.deepset.ai/)  
+[langchain](https://github.com/langchain-ai/langchain)  
 
-[sommelier ai](https://github.com/OrderAndCh4oS/sommelier-ai-next)  
+[simpleaichat](https://github.com/minimaxir/simpleaichat)  
 
-[JSON linter allowing api styleguides for openapi](https://github.com/stoplightio/spectral)  
+[oobooga](https://github.com/oobabooga/text-generation-webui)  
 
-[doctor gpt](https://github.com/llSourcell/DoctorGPT)  
+[lerf](https://www.lerf.io/)  
 
-[llama gpt](https://github.com/getumbrel/llama-gpt)  
+[magicedit](https://magic-edit.github.io/)  
 
-[poozle, plaid for llms](https://github.com/poozlehq/poozle)  
-
-[commoncrawl](https://commoncrawl.org/)  
-
-[falcon 40b](https://huggingface.co/tiiuae/falcon-40b)  
-
-[first order model animation](https://github.com/AliaksandrSiarohin/first-order-model)  
-
-[CoTracker for flexin, pferd](https://github.com/facebookresearch/co-tracker)
 
 #### writing
 [using elastic search, vectors arent enough, daily worldwide generation of data is hundreds of millions of terabytes](https://youtu.be/5Qaxz2e2dVg?feature=shared)  
@@ -71,6 +62,7 @@
 
 [The Imminent Death of ChatGPT (and generative AI) is Greatly Exaggerated - Look at the Data](https://synthedia.substack.com/p/the-imminent-death-of-chatgpt-and)  
 
+[Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
 
 ### apps
 #### projects
@@ -80,7 +72,9 @@
 [Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)  
 [hacker news: Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)  
 [problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)  
-[The ‘Enshittification’ of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
+
+[https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/](7 reasons to replace advanced search with filters so users can easily find what they need)  
+
 #### bullshit
 [propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
 
@@ -88,3 +82,4 @@
 ### civics
 #### writing
 [the blog of Cory Doctorow](https://pluralistic.net/)  
+[The ‘Enshittification’ of TikTok](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
