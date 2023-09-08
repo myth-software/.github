@@ -24,6 +24,8 @@
 
 [magicedit](https://magic-edit.github.io/)  
 
+[label-studio](https://github.com/HumanSignal/label-studio)
+
 #### videos
 [Is Langchain BAD for AI App Devs?](https://www.youtube.com/watch?v=4E2SsRI7eVo)
 
