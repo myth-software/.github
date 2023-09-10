@@ -87,6 +87,7 @@
 [Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)  
 [hacker news: Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)  
 [problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)  
+[state of devops 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)
 
 [https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/](7 reasons to replace advanced search with filters so users can easily find what they need)  
 
