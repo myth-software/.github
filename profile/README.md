@@ -14,6 +14,8 @@
 
 ### awesome a.i.
 #### projects
+[scriv.ai](https://scriv.ai/)  
+
 [langchain](https://github.com/langchain-ai/langchain)  
 
 [simpleaichat](https://github.com/minimaxir/simpleaichat)  
