@@ -31,6 +31,8 @@
 
 
 #### writing
+[How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)  
+
 [using elastic search, vectors arent enough, daily worldwide generation of data is hundreds of millions of terabytes](https://youtu.be/5Qaxz2e2dVg?feature=shared)  
 
 [web scraing for me but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
