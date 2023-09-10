@@ -31,6 +31,8 @@
 
 
 #### writing
+[LLMs, RAG, & the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)  
+
 [How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)  
 
 [using elastic search, vectors arent enough, daily worldwide generation of data is hundreds of millions of terabytes](https://youtu.be/5Qaxz2e2dVg?feature=shared)  
