@@ -31,6 +31,8 @@
 
 
 #### writing
+[Every Software Project is a Startup That Will Probably Fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)  
+  
 [LLMs, RAG, & the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)  
 
 [How to build an enterprise LLM application: Lessons from GitHub Copilot](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)  
