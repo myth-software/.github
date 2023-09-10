@@ -14,6 +14,8 @@
 
 ### awesome a.i.
 #### projects
+[sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)  
+
 [scriv.ai](https://scriv.ai/)  
 
 [langchain](https://github.com/langchain-ai/langchain)  
@@ -33,9 +35,9 @@
 
 
 #### writing
+[Remote working (LAN) for Stable Diffusion and ControlNET via Grasshopper](https://lucianoambrosini.medium.com/remote-working-lan-for-stable-diffusion-and-controlnet-via-grasshopper-3bc6e7970c40)  
+
 [Deep Learning is Easy - Learn Something Harder](https://www.inference.vc/deep-learning-is-easy/)  
-  
-[Every Software Project is a Startup That Will Probably Fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)  
   
 [LLMs, RAG, & the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)  
 
@@ -94,6 +96,8 @@
 [state of devops 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)
 
 [https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/](7 reasons to replace advanced search with filters so users can easily find what they need)  
+
+[Every Software Project is a Startup That Will Probably Fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)  
 
 #### bullshit
 [propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
