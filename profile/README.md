@@ -24,13 +24,15 @@
 
 [magicedit](https://magic-edit.github.io/)  
 
-[label-studio](https://github.com/HumanSignal/label-studio)
+[label-studio](https://github.com/HumanSignal/label-studio)  
 
 #### videos
 [Is Langchain BAD for AI App Devs?](https://www.youtube.com/watch?v=4E2SsRI7eVo)
 
 
 #### writing
+[Deep Learning is Easy - Learn Something Harder](https://www.inference.vc/deep-learning-is-easy/)  
+  
 [Every Software Project is a Startup That Will Probably Fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)  
   
 [LLMs, RAG, & the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)  
