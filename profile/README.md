@@ -85,6 +85,9 @@
 
 [gpt best practices](https://platform.openai.com/docs/guides/gpt-best-practices)  
 
+#### bullshit
+[openmeter](https://openmeter.io/)
+
 ### apps
 #### projects
 [playwright dev testing](https://playwright.dev/)  
