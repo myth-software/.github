@@ -14,6 +14,8 @@
 
 ### awesome a.i.
 #### projects
+[invokeai for controlnet](https://invoke-ai.github.io/InvokeAI/features/CONTROLNET/)
+
 [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)  
 
 [scriv.ai](https://scriv.ai/)  
