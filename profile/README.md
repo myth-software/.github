@@ -104,6 +104,8 @@
 
 [Every Software Project is a Startup That Will Probably Fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)  
 
+[Our Shift to Usage-Based Pricing by Abhishek Nayak](https://www.appsmith.com/blog/usage-based-pricing)  
+
 #### bullshit
 [propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
 
