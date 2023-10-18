@@ -13,8 +13,15 @@
 -->
 
 ### awesome a.i.
-#### projects
-[invokeai for controlnet](https://invoke-ai.github.io/InvokeAI/features/CONTROLNET/)
+#### projects  
+[hackernews - rapidpages - oss alternative to vercel's v0](https://news.ycombinator.com/item?id=37614177)  
+  
+[zep](https://github.com/getzep/zep)  
+
+[github - guidance - like prompting, just structural](https://github.com/guidance-ai/guidance)  
+  
+---  
+[invokeai for controlnet](https://invoke-ai.github.io/InvokeAI/features/CONTROLNET/)  
 
 [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)  
 
@@ -37,6 +44,10 @@
 
 
 #### writing
+
+  
+[arxiv - Spellburst: A Node-based Interface for Exploratory Creative Coding with Natural Language Prompts](https://arxiv.org/abs/2308.03921)  
+---  
 [Remote working (LAN) for Stable Diffusion and ControlNET via Grasshopper](https://lucianoambrosini.medium.com/remote-working-lan-for-stable-diffusion-and-controlnet-via-grasshopper-3bc6e7970c40)  
 
 [Deep Learning is Easy - Learn Something Harder](https://www.inference.vc/deep-learning-is-easy/)  
@@ -92,14 +103,31 @@
 
 ### apps
 #### projects
+[prismic - Editing a page is as easy as building a slide deck](https://prismic.io/)  
+
+[How? Kusho generates exhaustive tests for scenarios that can occur in production and executes them within your IDE.](https://kusho.co/)   
+  
+[lago, like stripe, only open source](https://www.getlago.com/get-started)  
+  
 [playwright dev testing](https://playwright.dev/)  
 
 #### writing
+[The invisible problem](https://jenson.org/text/)  
+  
+[11 Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)  
+  
+[Palantir’s Reputation Stalks Its Bid for the UK’s National Health Data](https://www.wired.com/story/palantir-nhs-data/)  
+  
+[the design system ecosystem - Brad Frost](https://bradfrost.com/blog/post/the-design-system-ecosystem/)  
+  
 [Policy Engines: Open Policy Agent vs AWS Cedar vs Google Zanzibar](https://www.permit.io/blog/policy-engines)  
+  
 [hacker news: Supabase Local Dev: migrations, branching, and observability](https://news.ycombinator.com/item?id=37059400)  
+  
 [problems with the 4 doc model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)  
-[state of devops 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)
-
+  
+[state of devops 2021](https://services.google.com/fh/files/misc/state-of-devops-2021.pdf)  
+  
 [https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/](7 reasons to replace advanced search with filters so users can easily find what they need)  
 
 [Every Software Project is a Startup That Will Probably Fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)  
