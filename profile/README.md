@@ -14,6 +14,8 @@
 
 ### awesome a.i.
 #### projects  
+[Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments](https://lightning.ai/pages/community/lora-insights/)  
+
 [hackernews - rapidpages - oss alternative to vercel's v0](https://news.ycombinator.com/item?id=37614177)  
   
 [zep](https://github.com/getzep/zep)  
@@ -47,7 +49,11 @@
 
   
 [arxiv - Spellburst: A Node-based Interface for Exploratory Creative Coding with Natural Language Prompts](https://arxiv.org/abs/2308.03921)  
+
 ---  
+
+[AI regulation and the imperative to learn from history](https://www.adalovelaceinstitute.org/blog/ai-regulation-learn-from-history/)  
+
 [Remote working (LAN) for Stable Diffusion and ControlNET via Grasshopper](https://lucianoambrosini.medium.com/remote-working-lan-for-stable-diffusion-and-controlnet-via-grasshopper-3bc6e7970c40)  
 
 [Deep Learning is Easy - Learn Something Harder](https://www.inference.vc/deep-learning-is-easy/)  
@@ -133,6 +139,10 @@
 [Every Software Project is a Startup That Will Probably Fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)  
 
 [Our Shift to Usage-Based Pricing by Abhishek Nayak](https://www.appsmith.com/blog/usage-based-pricing)  
+
+[An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)  
+
+[Goodbye integers. Hello UUIDv7!](https://buildkite.com/blog/goodbye-integers-hello-uuids)  
 
 #### bullshit
 [propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
