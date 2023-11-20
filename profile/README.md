@@ -144,6 +144,8 @@
 
 [Goodbye integers. Hello UUIDv7!](https://buildkite.com/blog/goodbye-integers-hello-uuids)  
 
+[human-centered artificial intelligence](https://hai.stanford.edu/)  
+
 #### bullshit
 [propelauth - 750 dollars per month for auth](https://www.propelauth.com/)  
 
